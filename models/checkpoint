@@ -1,0 +1,4 @@
+model_checkpoint_path: "pong.ckpt-4600"
+all_model_checkpoint_paths: "pong.ckpt-4200"
+all_model_checkpoint_paths: "pong.ckpt-4400"
+all_model_checkpoint_paths: "pong.ckpt-4600"
